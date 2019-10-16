@@ -1,3 +1,4 @@
 DELETE TABLE USUARIO
-DELETE TABLE Curso
+DELETE  Curso
+where Nombre="Francisco";
 DELETE TABLE AULA
